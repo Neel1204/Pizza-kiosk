@@ -58,27 +58,27 @@ class MainData {
       type: "Sauce and Cheese",
       details: [
         {
-          name: "Pasto Sauce",
+          name: "Tomato Sauce",
           price: 1.5,
           quantity: 0,
         },
         {
-          name: "Barbeque Sauce",
+          name: "Garlic & Mayo Sauce",
           price: 1.5,
           quantity: 0,
         },
         {
-          name: "Sweet Chili Sauce",
+          name: "Red Chili Sauce",
           price: 1.5,
           quantity: 0,
         },
         {
-          name: "Dairy Cheese",
+          name: "Cheddar Cheese",
           price: 1.5,
           quantity: 0,
         },
         {
-          name: "Mozzarella Cheese",
+          name: "Boccochini Cheese",
           price: 1.5,
           quantity: 0,
         },
@@ -104,7 +104,7 @@ class MainData {
           quantity: 0,
         },
         {
-          name: "Red Peppers",
+          name: "Hot Banana",
           price: 2.0,
           quantity: 0,
         },
@@ -119,7 +119,7 @@ class MainData {
           quantity: 0,
         },
         {
-          name: "Pineapple",
+          name: "Herb And Garlic",
           price: 2.0,
           quantity: 0,
         },
@@ -150,27 +150,27 @@ class MainData {
       type: "Meat Topppings",
       details: [
         {
-          name: "Anchovies",
+          name: "Salami Genoa",
           price: 3.0,
           quantity: 0,
         },
         {
-          name: "Bacon Crumble",
+          name: "Salami",
           price: 3.0,
           quantity: 0,
         },
         {
-          name: "Grilled Chicken",
+          name: "Pizzeria Pepperoni",
           price: 3.0,
           quantity: 0,
         },
         {
-          name: "Gound Beef",
+          name: "Turkey Pepperoni",
           price: 3.0,
           quantity: 0,
         },
         {
-          name: "Italian Hame",
+          name: "Black Forest Ham",
           price: 3.0,
           quantity: 0,
         },
@@ -178,35 +178,35 @@ class MainData {
     },
     {
       id: 5,
-      type: "Extra Flavour",
+      type: "Dips",
       details: [
         {
-          name: "Creamy Garlic",
+          name: "Jalapeno",
           price: 1.5,
           quantity: 0,
         },
         {
-          name: "Chili Papers",
+          name: "Ranch",
           price: 1.5,
           quantity: 0,
         },
         {
-          name: "Hot Sauce Drizzle",
+          name: "Garlic Mayo",
           price: 1.5,
           quantity: 0,
         },
         {
-          name: "Italiano Blend",
+          name: "Mayo",
           price: 1.5,
           quantity: 0,
         },
         {
-          name: "Olive Oil",
+          name: "hot chilli",
           price: 1.5,
           quantity: 0,
         },
         {
-          name: "Barbeque Drizzle",
+          name: "Barbeque",
           price: 1.5,
           quantity: 0,
         },

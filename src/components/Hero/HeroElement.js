@@ -1,10 +1,10 @@
 import styled from "styled-components";
-import Pizza from "../../Assets/Pizza.jpg";
+import pizza2 from "../../Assets/pizza2.jpg";
 import { Link } from "react-scroll";
 
 export const HeroContainer = styled.div`
   background: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.1)),
-    url(${Pizza});
+    url(${pizza2});
   height: 100vh;
   background-position: center;
   background-size: cover;
